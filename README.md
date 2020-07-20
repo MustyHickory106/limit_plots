@@ -1,3 +1,3 @@
-# limit_plots
+#Limit Plots
 
-test
+This repository contains macros run by ROOT that will construct MOEDAL Style Limit Plots.
